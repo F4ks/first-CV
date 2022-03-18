@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+  background-color: #6c6c6c;
+}
+.container{
+  font-family: 'Roboto', sans-serif;
+  background-color: #f3f3f3;
+  width: 750px;
+  height: 1600px;
+  margin: auto;
+}
+
+.main-part h2{
+  background-color: #98D9BD73;
+  font-size: 28px;
+  margin: 20px 15px;
+  padding: 20px 370px 35px 25px;
+}
+.top{
+ display: flex;
+}
+
+.top img{
+  width: 258px;
+  margin: 20px 0px 0px 30px;
+  border-radius: 5px;
+}
+
+.top h1{
+  font-size: 56px;
+  margin: 70px 0px 0px 40px;
+  padding-bottom: 0px;
+}
+
+.top p{
+  font-size: 16px;
+  margin: 0px 0px 0px 200px;
+  padding-top: 0px;
+}
+
+.top h2{
+  font-size: 36px;
+  margin: 51px 115px 0px 40px;
+}
+
+.skills{
+  display: flex;
+}
+
+.skills h3{
+  font-size: 18px;
+  margin: 20px 20px;
+}
+
+.skills p{
+  font-size: 14px;
+  margin: 10px 10px;
+}
+
+.art{
+  width: 220px;
+  height: 200px;
+  border-radius: 25px;
+  background-color:#CC9595 ;
+  margin-left: 22px;
+}
+
+.montage{
+  width: 220px;
+  height: 200px;
+  border-radius: 25px;
+  background-color: #83C9B8;
+  margin-left: 22px;
+}
+
+.frontend{
+  width: 220px;
+  height: 200px;
+  border-radius: 25px;
+  background-color:#CDCCA9 ;
+  margin-left: 22px;
+}
+
+.hobby{
+  display: flex;
+}
+
+.hobby p{
+  text-align: left;
+  font-size: 24px;
+  margin: 80px 500px 20px 20px;
+  padding: 10px;
+  background-color:#F3FF6FC2;
+  border-radius: 10px;
+}
+
+#bike{
+  width: 200px;
+  position: absolute;
+  margin: 220px 25px 0px 300px;
+}
+
+#bar{
+  position: absolute;
+  width: 200px;
+  height: 355px;
+  margin: 200px 25px 0px 500px;
+}
+
+#medal{
+  position: absolute;
+  width: 385px;
+  height: 220;
+  margin: 20px 25px 0px 340px;
+}
+
+.footer{
+  background-color: #C98888;
+  margin-top: 100px;
+  padding-bottom: 30px;
+  font-size: 18px;
+}
+
+.footer h2{
+  margin: 10px;
+  padding-top:10px ;
+}
+
+.footer a{
+  margin-left: 20px;
+  text-decoration: none;
+  color: #000;
+  padding-bottom: 500px;
+}
+
+.footer a:hover{
+  text-decoration: underline;
+}
+
+.footer a:visited{
+ text-decoration: none;
+}
+
+#mail{
+  margin-left: 200px;
+}
+
+.second-line{
+  margin-top: 20px;
+}
